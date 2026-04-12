@@ -53,7 +53,7 @@ El control de versiones permite registrar cambios en el código, trabajar en equ
 ## Imágenes
 
 > Las siguientes imágenes corresponden a una sesión de conversación con la IA Claude,
-> utilizada como herramienta de apoyo durante el desarrollo del laboratorio.
+> utilizada como herramienta de apoyo durante el desarrollo del laboratorio. Con un grado de uso de 7, en una escala del 1 al 10.
 
 ![1](PNG/1.png)
 ![2](PNG/2.png)
