@@ -38,7 +38,7 @@ El control de versiones permite registrar cambios en el código, trabajar en equ
 
 ## Estructura del proyecto
 
-```bash
+\`\`\`
 .
 ├── README.md
 ├── fetch.sh
@@ -48,6 +48,7 @@ El control de versiones permite registrar cambios en el código, trabajar en equ
 ├── results.csv
 ├── hdl/
 └── reports/
+\`\`\`
 
 ## Imágenes
 
